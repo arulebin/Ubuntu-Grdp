@@ -5,7 +5,7 @@ on:
      auth:
         description: 'GRDP Authorization Code'
         required: true
-        default: 'paste your code here'
+        default: 
   
 defaults:
   run:
